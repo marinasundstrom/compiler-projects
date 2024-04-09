@@ -87,3 +87,13 @@ TBD. There is no semantic analysis yet.
 For parsing expressions we have an [Operator-precedence parser](https://en.wikipedia.org/wiki/Operator-precedence_parser), which is a  [shift-reduce parser](https://en.wikipedia.org/wiki/Shift-reduce_parser). 
 
 The algorithm is explained in the Wikipedia article. (Linked)
+
+## Resources
+
+A couple of .NET compilers written in C#:
+
+* [GFN (Good for nothing) compiler](https://github.com/johandanforth/good-for-nothing-compiler)
+* [Mono C# compiler](https://github.com/mono/mono/tree/main/mcs/mcs)
+* [IronPython 3](https://github.com/IronLanguages/ironpython3)
+* [Small Basic compiler](https://github.com/sb/smallbasic-editor/tree/master/Source/SmallBasic.Compiler)
+* [Roslyn .NET compiler](https://github.com/dotnet/roslyn) (C# and VB.NET compilers)
