@@ -1,3 +1,5 @@
+These projects have been merged into [rave-compiler](https://github.com/marinasundstrom/raven-compiler).
+
 # Compiler projects
 
 A couple of started projects for prototyping compilers. 
