@@ -1,4 +1,4 @@
-These projects have been merged into [rave-compiler](https://github.com/marinasundstrom/raven-compiler).
+These projects have been merged into [raven-compiler](https://github.com/marinasundstrom/raven-compiler).
 
 # Compiler projects
 
